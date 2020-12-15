@@ -1,4 +1,4 @@
-Class tictactoe
+Class TicTacToe
  def initialize
    board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end

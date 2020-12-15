@@ -83,3 +83,4 @@ def valid_move?(index)
     turn until over?
     puts winner ? "Congratulations #{winner}!" : "Cat's Game!"
   end
+end
